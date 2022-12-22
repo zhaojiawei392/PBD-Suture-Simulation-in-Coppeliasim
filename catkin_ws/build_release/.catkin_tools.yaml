@@ -1,0 +1,6 @@
+devel_space: /home/kai/git/jzhao_suture2021/catkin_ws/devel_release
+install: false
+install_space: /home/kai/git/jzhao_suture2021/catkin_ws/install_release
+profile: release
+source_space: /home/kai/git/jzhao_suture2021/catkin_ws/src
+workspace: /home/kai/git/jzhao_suture2021/catkin_ws

@@ -1,0 +1,41 @@
+"frequency_verbose": false
+
+"thread_sampling_time_nsec": 400000
+"link7_radius": 0.00175
+"link8_radius": 0.00175
+"link9_radius": 0.00125
+"head_name": "suture_head"
+"end_name": "suture_end"
+"particle_name": "s"
+"forward_priority": 0.62 #0.618033988
+"original_distance": 0.0002
+"continuity_distance": 0.0002
+
+"mass_amount": 150
+"realization_iteration_times": 1
+"continuity_iteration_times": 5
+"continuity_iteration_times_between_collision_avoidance": 0
+
+"elastic_modulus": 100
+"activity_level": 0.95
+"mass": 1
+"sampling_time_sec": 0.001 
+"gravity": 1 
+"inverse_sending_speed": 50
+"eta_d": 200
+"eta_d_ls": 200
+"eta_d_self": 200
+
+"vfi_threshold": 2
+"self_collision_check_threshold": 5
+"bed_safe_distance": 0.0
+
+"collision_check": true
+"self_collision_check": false    # do not use
+"penetration_check": false
+"penetration_check_threshold": 0.001
+
+
+"vrep_ip": "192.168.133.1"  # the ip address of the computer on which the Vrep (the simulator you want to operate) is runnning.
+"vrep_port": 20001
+

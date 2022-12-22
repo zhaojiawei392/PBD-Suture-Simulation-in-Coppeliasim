@@ -1,0 +1,8 @@
+{
+    "forward_priority":0.62, 
+    "element_spacing":0.0002,
+    "element_number":150,
+    "elastic_modulus":100,
+    "activity_level":0.95,
+    "mass": 1
+}

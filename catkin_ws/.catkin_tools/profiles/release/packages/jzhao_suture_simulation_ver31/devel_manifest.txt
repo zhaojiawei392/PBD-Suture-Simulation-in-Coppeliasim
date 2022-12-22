@@ -1,6 +1,0 @@
-jzhao_suture_simulation_ver40
-/home/kai/git/jzhao_suture2021/catkin_ws/devel_release/.private/jzhao_suture_simulation_ver31/cmake.lock /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./cmake.lock
-/home/kai/git/jzhao_suture2021/catkin_ws/devel_release/.private/jzhao_suture_simulation_ver31/share/jzhao_suture_simulation_ver31/cmake/jzhao_suture_simulation_ver31Config.cmake /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/share/jzhao_suture_simulation_ver31/cmake/jzhao_suture_simulation_ver31Config.cmake
-/home/kai/git/jzhao_suture2021/catkin_ws/devel_release/.private/jzhao_suture_simulation_ver31/share/jzhao_suture_simulation_ver31/cmake/jzhao_suture_simulation_ver31Config-version.cmake /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/share/jzhao_suture_simulation_ver31/cmake/jzhao_suture_simulation_ver31Config-version.cmake
-/home/kai/git/jzhao_suture2021/catkin_ws/devel_release/.private/jzhao_suture_simulation_ver31/lib/pkgconfig/jzhao_suture_simulation_ver31.pc /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/lib/pkgconfig/jzhao_suture_simulation_ver31.pc
-/home/kai/git/jzhao_suture2021/catkin_ws/devel_release/.private/jzhao_suture_simulation_ver31/lib/jzhao_suture_simulation_ver31/suture_simulation_node /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/lib/jzhao_suture_simulation_ver31/suture_simulation_node

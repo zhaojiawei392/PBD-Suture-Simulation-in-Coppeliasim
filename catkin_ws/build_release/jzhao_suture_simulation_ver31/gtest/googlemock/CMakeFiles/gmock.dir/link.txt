@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/kai/git/jzhao_suture2021/catkin_ws/build_release/jzhao_suture_simulation_ver31/gtest/lib ../lib/libgtest.so -lpthread 

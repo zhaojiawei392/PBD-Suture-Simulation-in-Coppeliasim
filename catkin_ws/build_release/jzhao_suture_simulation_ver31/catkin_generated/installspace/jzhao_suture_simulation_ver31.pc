@@ -1,8 +1,0 @@
-prefix=/home/kai/git/jzhao_suture2021/catkin_ws/install_release
-
-Name: jzhao_suture_simulation_ver31
-Description: Description of jzhao_suture_simulation_ver31
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

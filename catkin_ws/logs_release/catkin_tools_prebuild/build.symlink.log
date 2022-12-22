@@ -1,0 +1,12 @@
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./_setup_util.py
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./local_setup.sh
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./cmake.lock
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./setup.zsh
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./setup.sh
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./local_setup.bash
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./setup.bash
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./local_setup.zsh
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/./env.sh
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/kai/git/jzhao_suture2021/catkin_ws/devel_release/lib/pkgconfig/catkin_tools_prebuild.pc

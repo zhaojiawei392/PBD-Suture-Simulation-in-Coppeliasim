@@ -1,0 +1,9 @@
+<launch>
+
+<node pkg="jzhao_suture_simulation_ver30" type="suture_simulation_node" name="suture_simulation">
+<rosparam file="$(find jzhao_suture_simulation_ver30)/cfg/suture_simulation.yaml" command="load" subst_value="true"/>
+
+</node>
+
+</launch>
+

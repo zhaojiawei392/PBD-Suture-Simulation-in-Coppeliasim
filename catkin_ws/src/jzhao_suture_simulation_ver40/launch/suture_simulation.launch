@@ -1,0 +1,11 @@
+<launch>
+
+<node pkg="jzhao_suture_simulation_ver40" type="suture_simulation_node" name="suture_simulation">
+<rosparam file="$(find jzhao_suture_simulation_ver40)/cfg/suture_simulation.yaml" command="load" subst_value="true"/>
+<rosparam subst_value="true">
+    suture_parameters_file: $(find jzhao_suture_simulation_ver40)/sutures/vrep_particle_suture.json
+</rosparam>
+</node>
+
+</launch>
+

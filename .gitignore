@@ -1,3 +1,11 @@
+# folders and files #
+####################
+catkin_ws/build_release/
+catkin_ws/devel_release/
+catkin_ws/logs_release/
+catkin_ws/.catkin_tools/
+
+
 # Compiled source #
 ###################
 *.com
